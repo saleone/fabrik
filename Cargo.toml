@@ -1,6 +1,6 @@
 [package]
 name = "fabrik"
-version = "0.1.0"
+version = "0.2.0-dev1"
 authors = ["Saša Savić <sasa@savic.one>"]
 license = "MIT"
 edition = "2018"
